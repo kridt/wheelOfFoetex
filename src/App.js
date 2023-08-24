@@ -1,23 +1,43 @@
-import logo from './logo.svg';
-import './App.css';
-
+import { useEffect, useState } from "react";
+import "./App.css";
 function App() {
+  const [medarbejdere, setMedarbejdere] = useState([]);
+  const lederNummre = [
+    286828, 103978, 106490, 115692, 149387, 160851, 169586, 180542, 191333,
+    218368, 242894, 185653,
+  ];
+
+  useEffect(() => {
+    fetch("/medarbejdere.json")
+      .then((response) => response.json())
+      .then((data) => setMedarbejdere(data.filter(removeLeder)));
+
+    console.log(medarbejdere);
+  }, []);
+
+  function removeLeder(medarbejder) {
+    return !lederNummre.includes(medarbejder["Person ID"]);
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+      <h1>
+        <a href="https://wheelofnames.com" target="_blank">
+          Hjulet er her!
         </a>
-      </header>
+      </h1>
+      {medarbejdere.map((medarbejder) => {
+        const firstNames = medarbejder.Navn.split(" ")[1];
+        const lastName = medarbejder.Navn.split(" ")[0];
+        return (
+          <div key={medarbejder.id}>
+            <p>
+              {firstNames + " " + lastName} lønnummer:{" "}
+              {medarbejder["Person ID"]}
+            </p>
+          </div>
+        );
+      })}
     </div>
   );
 }
