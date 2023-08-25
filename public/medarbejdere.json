@@ -1,1223 +1,1039 @@
 [
   {
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Person ID": 103978,
-    "__EMPTY_1": 608,
-    "__EMPTY_4": "",
-    "leder": true,
-    "Navn": "Munk, Thomas"
-  },
-  {
-    "__EMPTY_5": "",
-    "__EMPTY_1": "",
-    "__EMPTY_4": "",
-    "leder": true,
-    "__EMPTY_3": "",
-    "Navn": "Gür, Nesrin",
-    "Person ID": 106490
-  },
-  {
-    "leder": false,
-    "__EMPTY_4": "",
-    "__EMPTY_1": 602,
-    "Person ID": 114591,
-    "__EMPTY_3": "",
-    "Navn": "Damkjær, Connie Iris",
-    "__EMPTY_5": ""
-  },
-  {
-    "Person ID": 115692,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "leder": true,
-    "__EMPTY_1": "",
-    "Navn": "Jungersen, Jesper Frank"
-  },
-  {
-    "__EMPTY_1": 605,
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "Navn": "Arik, Hatice",
-    "Person ID": 117959,
-    "leder": false,
-    "__EMPTY_5": ""
-  },
-  {
-    "__EMPTY_5": "",
-    "__EMPTY_1": "080",
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "leder": false,
-    "Person ID": 124381,
-    "Navn": "Iversen, Marianne"
-  },
-  {
-    "__EMPTY_1": "030",
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Person ID": 124412,
-    "leder": false,
-    "Navn": "Petersen, Henni Serritzlev"
-  },
-  {
-    "leder": false,
-    "__EMPTY_3": "",
-    "Navn": "Jensen, Katja",
-    "__EMPTY_1": 605,
-    "__EMPTY_5": "",
-    "Person ID": 124863,
-    "__EMPTY_4": ""
-  },
-  {
-    "leder": false,
-    "__EMPTY_1": 602,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Navn": "Nielsen, Lone Marianne",
-    "__EMPTY_4": "",
-    "Person ID": 148727
-  },
-  {
-    "Navn": "Angleys, Daniel",
-    "leder": true,
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Person ID": 149387,
-    "__EMPTY_1": "030",
-    "__EMPTY_5": ""
-  },
-  {
-    "leder": true,
-    "Person ID": 160851,
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Afd.": 602,
-    "Navn": "Kirckhoff, Mikkel"
-  },
-  {
-    "Person ID": 166265,
-    "Navn": "Akdeniz, Gülüzar",
-    "__EMPTY_5": "",
-    "__EMPTY_1": 602,
-    "__EMPTY_3": "",
-    "leder": false,
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_1": 310,
-    "Person ID": 169586,
-    "__EMPTY_3": "",
-    "leder": true,
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "Navn": "Gür, Merve"
-  },
-  {
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "leder": false,
-    "__EMPTY_5": "",
-    "Person ID": 175166,
-    "Navn": "Petersen, Kenneth",
-    "__EMPTY_1": 310
-  },
-  {
-    "Navn": "Christensen, Tanja",
-    "__EMPTY_1": "030",
-    "__EMPTY_5": "",
-    "Person ID": 179442,
-    "leder": false,
-    "__EMPTY_3": "",
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_5": "",
-    "Afd.": "040",
-    "Navn": "Limthong, Chamai",
-    "leder": true,
-    "Person ID": 180542,
-    "__EMPTY_3": "",
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_4": "",
-    "__EMPTY_1": 602,
-    "Navn": "Andersen, Kirstine",
-    "__EMPTY_5": "",
-    "Person ID": 185653,
-    "__EMPTY_3": "",
-    "leder": true
-  },
-  {
-    "Navn": "Faurskov, Camilla Sara",
-    "__EMPTY_1": 602,
-    "__EMPTY_3": "",
-    "Person ID": 191333,
-    "__EMPTY_4": "",
-    "leder": true,
-    "__EMPTY_5": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Navn": "Gajewski, Mateusz Pawel",
-    "Person ID": 193055,
-    "__EMPTY_5": "",
-    "leder": false,
-    "Afd.": "030"
-  },
-  {
-    "leder": false,
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "Afd.": 602,
-    "Person ID": 202855,
-    "Navn": "Madsen, Maria Lind",
-    "__EMPTY_3": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "Person ID": 211024,
-    "__EMPTY_1": 310,
-    "Navn": "El-Sherbini, Josefine Hammershøi",
-    "__EMPTY_5": "",
-    "leder": false,
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "__EMPTY_1": "080",
-    "Person ID": 218368,
-    "Navn": "Sahin, Seval",
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "leder": true
-  },
-  {
-    "__EMPTY_5": "",
-    "Person ID": 230372,
-    "Navn": "Lorentzen, Lasse Kragh",
-    "__EMPTY_3": "",
-    "leder": false,
-    "__EMPTY_1": 602,
-    "__EMPTY_4": ""
-  },
-  {
-    "Navn": "Schmidt, Sarah Juul",
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "__EMPTY_1": 602,
-    "leder": false,
-    "Person ID": 240856,
-    "__EMPTY_5": ""
-  },
-  {
-    "Person ID": 242894,
-    "leder": true,
-    "__EMPTY_1": "040",
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "Navn": "Fetihaison, Biniam Zerealassi",
-    "__EMPTY_3": ""
-  },
-  {
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "__EMPTY_5": "",
-    "Person ID": 244885,
-    "leder": false,
-    "__EMPTY_3": "",
-    "Navn": "Sufi, Mozamel Nuradin"
-  },
-  {
-    "Navn": "Malik, Hamna Azhar",
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "leder": false,
-    "Person ID": 250977,
-    "__EMPTY_1": 602,
-    "__EMPTY_5": ""
-  },
-  {
-    "Navn": "Tirpan, Heval Cerkez",
-    "leder": false,
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Afd.": 602,
-    "Person ID": 257075,
-    "__EMPTY_4": ""
-  },
-  {
-    "Person ID": 257108,
-    "__EMPTY_5": "",
-    "Navn": "Andersen, Magnus Hovmann",
-    "leder": false,
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "__EMPTY_3": ""
-  },
-  {
-    "Navn": "Sönmez, Bekir",
-    "__EMPTY_3": "",
-    "Person ID": 258898,
-    "leder": false,
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "__EMPTY_5": ""
-  },
-  {
-    "Navn": "Pedersen, Kian Smith",
-    "leder": false,
-    "Afd.": "080",
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "Person ID": 268472,
-    "__EMPTY_5": ""
-  },
-  {
-    "leder": false,
-    "Person ID": 271617,
-    "Navn": "Egholm, Aza Sindy Che",
-    "Afd.": "040",
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "__EMPTY_3": ""
-  },
-  {
-    "Navn": "Krogh, Esben Anders Marthal",
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "leder": false,
-    "Afd.": "030",
-    "Person ID": 272817,
-    "__EMPTY_5": ""
-  },
-  {
-    "Person ID": 275654,
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "Navn": "Kurt, Simge",
-    "__EMPTY_5": "",
-    "leder": false,
-    "Afd.": "080"
-  },
-  {
-    "__EMPTY_4": "",
-    "Navn": "Bendtsen, Yasmin Rønberg",
-    "Afd.": "030",
-    "__EMPTY_3": "",
-    "leder": false,
-    "Person ID": 281338,
-    "__EMPTY_5": ""
-  },
-  {
-    "__EMPTY_4": "",
-    "Person ID": 283063,
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "leder": false,
-    "Afd.": 310,
-    "Navn": "Anthony, Emma Bachmann"
-  },
-  {
-    "leder": false,
-    "__EMPTY_3": "",
-    "Navn": "Rabii, Zahra",
-    "__EMPTY_5": "",
-    "Person ID": 286804,
-    "Afd.": 602,
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_5": "",
-    "Afd.": 602,
-    "leder": true,
-    "Person ID": 286828,
-    "Navn": "Nielsen, Christian Loui Elsang",
-    "__EMPTY_3": "",
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Afd.": 602,
-    "Person ID": 287139,
-    "__EMPTY_4": "",
-    "Navn": "Simsek, Lorin Mine",
-    "leder": false
-  },
-  {
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Navn": "Solvig, René Bak",
-    "Afd.": "080",
-    "leder": false,
-    "Person ID": 288700
-  },
-  {
-    "__EMPTY_4": "",
-    "leder": false,
-    "Afd.": 604,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Navn": "Sølby, Mikael",
-    "Person ID": 292866
-  },
-  {
-    "leder": false,
-    "Person ID": 295232,
-    "__EMPTY_3": "",
-    "Navn": "Lamkachar, Manal",
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "__EMPTY_5": ""
-  },
-  {
-    "Afd.": 602,
-    "Person ID": 299803,
-    "__EMPTY_3": "",
-    "Navn": "Guldager, Birthe Marguerita",
-    "leder": false,
-    "__EMPTY_4": "",
-    "__EMPTY_5": ""
-  },
-  {
-    "Person ID": 305239,
-    "__EMPTY_4": "",
-    "Afd.": "030",
-    "Navn": "Hayal, Nazar",
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "leder": false
-  },
-  {
-    "Afd.": 310,
-    "leder": false,
-    "Person ID": 305296,
-    "__EMPTY_4": "",
-    "Navn": "Atif, Rahat Naghma",
-    "__EMPTY_3": "",
-    "__EMPTY_5": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "leder": false,
-    "__EMPTY_5": "",
-    "Navn": "Zacchi, Andreas Victor",
-    "Afd.": 602,
-    "__EMPTY_4": "",
-    "Person ID": 308194
-  },
-  {
-    "leder": false,
-    "Person ID": 308195,
-    "Afd.": 605,
-    "Navn": "Sokolowska, Patrycja",
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "__EMPTY_3": ""
-  },
-  {
-    "Afd.": 602,
-    "Person ID": 309284,
-    "leder": false,
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Navn": "Osther, Emmeli"
-  },
-  {
-    "__EMPTY_4": "",
-    "leder": false,
-    "Navn": "Hayal, Muhammed Onur",
-    "Afd.": "080",
-    "Person ID": 309787,
-    "__EMPTY_5": "",
-    "__EMPTY_3": ""
-  },
-  {
-    "Navn": "Wiese, Jonas",
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Person ID": 310663,
-    "__EMPTY_4": "",
-    "Afd.": "040",
-    "leder": false
-  },
-  {
-    "Navn": "Sørensen, Julie Fink",
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Person ID": 313073,
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "leder": false
-  },
-  {
-    "__EMPTY_4": "",
-    "leder": false,
-    "Person ID": 315673,
-    "Navn": "Onsby, Niklas Renow",
-    "Afd.": "030",
-    "__EMPTY_3": "",
-    "__EMPTY_5": ""
-  },
-  {
-    "__EMPTY_4": "",
-    "Person ID": 316281,
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "leder": false,
-    "Navn": "Jacobsen, Søren Rene Nordstrøm",
-    "Afd.": "080"
-  },
-  {
-    "leder": false,
-    "__EMPTY_5": "",
-    "Navn": "Amin, Zohaib Kamran",
-    "Afd.": 602,
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Person ID": 317021
-  },
-  {
-    "Afd.": "030",
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "Navn": "Olsen, Mette Rønberg",
-    "leder": false,
-    "__EMPTY_3": "",
-    "Person ID": 320019
-  },
-  {
-    "Afd.": 602,
-    "leder": false,
-    "__EMPTY_3": "",
-    "Navn": "Andersen, Matias Bue",
-    "__EMPTY_5": "",
-    "Person ID": 320604,
-    "__EMPTY_4": ""
-  },
-  {
-    "leder": false,
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "Person ID": 324316,
-    "Navn": "Benli, Rojda",
-    "__EMPTY_5": "",
-    "__EMPTY_3": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Person ID": 324718,
-    "__EMPTY_4": "",
-    "Afd.": "030",
-    "leder": false,
-    "Navn": "Legaard, Rikke Nicoline"
-  },
-  {
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Person ID": 325385,
-    "Afd.": "040",
-    "leder": false,
-    "Navn": "Matus, Daniel Enrique Grolin Matus"
-  },
-  {
-    "__EMPTY_4": "",
-    "leder": false,
-    "Navn": "Yilmaz, Eda",
-    "Person ID": 328305,
-    "__EMPTY_5": "",
-    "Afd.": 310,
-    "__EMPTY_3": ""
-  },
-  {
-    "Navn": "Kauser, Aksa",
-    "Person ID": 329242,
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "Afd.": 605,
-    "leder": false
-  },
-  {
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "Navn": "Petersen, Jonas Holm",
-    "leder": false,
-    "Person ID": 329736
-  },
-  {
-    "leder": false,
-    "Afd.": 602,
-    "__EMPTY_3": "",
-    "Navn": "Joensen, Mattias Ingemann",
-    "__EMPTY_5": "",
-    "Person ID": 330939,
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "Afd.": "030",
-    "Person ID": 332636,
-    "__EMPTY_5": "",
-    "leder": false,
-    "__EMPTY_4": "",
-    "Navn": "Kruse, Mikkel Tobias"
-  },
-  {
-    "__EMPTY_5": "",
-    "Navn": "Sanders, Christian Markussen",
-    "leder": false,
-    "Person ID": 333858,
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "__EMPTY_3": ""
-  },
-  {
-    "Afd.": "080",
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "Navn": "Sahin, Aysegül",
-    "leder": false,
-    "__EMPTY_5": "",
-    "Person ID": 335799
-  },
-  {
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Afd.": "080",
-    "__EMPTY_5": "",
-    "Person ID": 337806,
-    "leder": false,
-    "Navn": "Kücükavci, Muhammed Ali"
-  },
-  {
-    "Afd.": "040",
-    "Navn": "Cernovas, Retas",
-    "__EMPTY_3": "",
-    "Person ID": 338685,
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "leder": false
-  },
-  {
-    "leder": false,
-    "Person ID": 339637,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "Afd.": 310,
-    "Navn": "Duymaz, Berkay Alper"
-  },
-  {
-    "Person ID": 339786,
-    "__EMPTY_5": "",
-    "Afd.": 604,
-    "leder": false,
-    "Navn": "Christiansen, Mikkel Holst",
-    "__EMPTY_4": "",
-    "__EMPTY_3": ""
-  },
-  {
-    "Person ID": 340003,
-    "__EMPTY_4": "",
-    "Afd.": "080",
-    "__EMPTY_5": "",
-    "leder": false,
-    "__EMPTY_3": "",
-    "Navn": "Tükenmez, Bertin"
-  },
-  {
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "leder": false,
-    "Navn": "Hegyközy, Izabell Peulecke",
-    "Person ID": 341313
-  },
-  {
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "leder": false,
-    "Navn": "Khan, Ameerah Noor",
-    "Person ID": 342487,
-    "__EMPTY_5": "",
-    "__EMPTY_3": ""
-  },
-  {
-    "leder": false,
-    "__EMPTY_3": "",
-    "Person ID": 342645,
-    "Navn": "Adani, Malyun Mohamed Hassan",
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "Afd.": 602
-  },
-  {
-    "__EMPTY_5": "",
-    "leder": false,
-    "Navn": "Jensen, Henrik Torben Steen",
-    "Afd.": 602,
-    "Person ID": 345481,
-    "__EMPTY_4": "",
-    "__EMPTY_3": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "Afd.": 605,
-    "__EMPTY_4": "",
-    "Person ID": 348341,
-    "Navn": "Volkdal, Clara Grundahl",
-    "leder": false,
-    "__EMPTY_5": ""
-  },
-  {
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "Navn": "Shniter, Hadil Salman",
-    "leder": false,
-    "Person ID": 349344,
-    "Afd.": 310,
-    "__EMPTY_5": ""
-  },
-  {
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "Afd.": "040",
-    "__EMPTY_3": "",
-    "Navn": "Razaq, Aayan",
-    "leder": false,
-    "Person ID": 349367
-  },
-  {
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "leder": false,
-    "Afd.": "080",
-    "__EMPTY_5": "",
-    "Person ID": 349760,
-    "Navn": "Hansen, Tino"
-  },
-  {
-    "Navn": "Kücükkilic, Hasan",
-    "__EMPTY_3": "",
-    "leder": false,
-    "Person ID": 351132,
-    "Afd.": 604,
-    "__EMPTY_4": "",
-    "__EMPTY_5": ""
-  },
-  {
-    "Afd.": 602,
-    "Person ID": 351740,
-    "Navn": "Singh, Sandeep",
-    "leder": false,
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_4": "",
-    "Person ID": 352124,
-    "leder": false,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Afd.": "040",
-    "Navn": "Lepon, Vincent"
-  },
-  {
-    "Person ID": 352230,
-    "leder": false,
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "Navn": "Koca, Aysegül",
-    "Afd.": 602,
-    "__EMPTY_3": ""
-  },
-  {
-    "__EMPTY_4": "",
-    "leder": false,
-    "Person ID": 352250,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Afd.": 602,
-    "Navn": "Imtiaz, Noor Shaheen"
-  },
-  {
-    "leder": false,
-    "__EMPTY_4": "",
-    "Navn": "Wervick, Noa Magnus",
-    "Person ID": 352413,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Afd.": "040"
-  },
-  {
-    "Afd.": "030",
-    "Navn": "Ahmed, Simra",
-    "__EMPTY_3": "",
-    "Person ID": 353118,
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "leder": false
-  },
-  {
-    "leder": false,
-    "__EMPTY_5": "",
-    "Person ID": 353427,
-    "Navn": "Frandsen, Nicki Kjær Lingskov",
-    "Afd.": "040",
-    "__EMPTY_4": "",
-    "__EMPTY_3": ""
-  },
-  {
-    "Person ID": 354919,
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "leder": false,
-    "Afd.": "030",
-    "Navn": "Naeem, Zoha",
-    "__EMPTY_5": ""
-  },
-  {
-    "Afd.": "040",
-    "__EMPTY_5": "",
-    "leder": false,
-    "Navn": "Søndergaard, Andreas Thor Ström",
-    "__EMPTY_4": "",
-    "Person ID": 355261,
-    "__EMPTY_3": ""
-  },
-  {
-    "leder": false,
-    "Person ID": 355774,
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Navn": "Gür, Emir",
-    "__EMPTY_5": "",
-    "Afd.": "080"
-  },
-  {
-    "__EMPTY_4": "",
-    "Person ID": 356873,
-    "leder": false,
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Navn": "Eker, Mevlüt",
-    "Afd.": "080"
-  },
-  {
-    "Navn": "Wervick, Vilgot Otto Magnus",
-    "__EMPTY_3": "",
-    "Afd.": "040",
-    "__EMPTY_4": "",
-    "Person ID": 357172,
-    "leder": false,
-    "__EMPTY_5": ""
-  },
-  {
-    "Person ID": 360047,
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "Navn": "Pedersen, Alex Smith",
-    "Afd.": "030",
-    "leder": false
-  },
-  {
-    "__EMPTY_5": "",
-    "Person ID": 360703,
-    "__EMPTY_3": "",
-    "Afd.": "080",
-    "__EMPTY_4": "",
-    "leder": false,
-    "Navn": "Ücler, Mert"
-  },
-  {
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Afd.": "080",
-    "Person ID": 360704,
     "Navn": "Adnan, Emin",
-    "leder": false,
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "Navn": "ravn, luna",
-    "leder": false,
-    "Afd.": 310,
-    "__EMPTY_5": "",
-    "Person ID": 361198,
-    "__EMPTY_4": ""
-  },
-  {
-    "Navn": "Cristescu, Malou",
-    "__EMPTY_3": "",
-    "leder": false,
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "Afd.": "030",
-    "Person ID": 361239
-  },
-  {
-    "__EMPTY_3": "",
-    "Navn": "Tüzci, Sehrazat",
-    "Afd.": 310,
-    "Person ID": 361251,
-    "leder": false,
-    "__EMPTY_5": "",
-    "__EMPTY_4": ""
-  },
-  {
-    "Afd.": 602,
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "leder": false,
-    "Navn": "Simonsen, Nicholas Adam",
-    "__EMPTY_3": "",
-    "Person ID": 361294
-  },
-  {
-    "Person ID": 361295,
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "leder": false,
-    "Afd.": 602,
-    "Navn": "Thøgersen, Nicklas Vigilsen Lee",
-    "__EMPTY_3": ""
-  },
-  {
-    "Afd.": 602,
-    "Person ID": 361304,
-    "leder": false,
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Navn": "Amin, Zain Kamran",
-    "__EMPTY_5": ""
-  },
-  {
-    "Person ID": 361471,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "Navn": "Kristjansen, Brian",
-    "leder": false
-  },
-  {
-    "Navn": "Basaran, Hevin Tuana",
-    "Afd.": 602,
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "leder": false,
-    "Person ID": 361616
-  },
-  {
-    "Person ID": 361737,
-    "__EMPTY_4": "",
-    "leder": false,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Navn": "Hamid, Nazia",
-    "Afd.": 310
-  },
-  {
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Afd.": 310,
-    "Person ID": 362972,
-    "__EMPTY_4": "",
-    "Navn": "Sahin, Zeliha",
-    "leder": false
-  },
-  {
-    "__EMPTY_5": "",
-    "Person ID": 363583,
-    "leder": false,
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "Afd.": 602,
-    "Navn": "Tas, Miran Fedekar"
-  },
-  {
-    "Person ID": 363644,
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "leder": false,
-    "__EMPTY_3": "",
-    "__EMPTY_5": "",
-    "Navn": "Kücükköse, Melda"
-  },
-  {
-    "leder": false,
-    "Person ID": 363966,
-    "Navn": "Akram, Mohammed Ibrahim",
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Afd.": 602
-  },
-  {
-    "Person ID": 364291,
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Afd.": 602,
-    "Navn": "Kjelfred, Charlotte",
-    "leder": false
-  },
-  {
-    "Person ID": 364313,
-    "Navn": "Bouchareb, Omar",
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
+    "Person ID": 360704,
+    "Butik": 1331,
     "Afd.": "080",
-    "leder": false
+    "Fødselsdag": "30/05/2007"
+  },
+  {
+    "Navn": "Ahmed, Simra",
+    "Person ID": 353118,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "08/05/2006"
+  },
+  {
+    "Navn": "Akdeniz, Gülüzar",
+    "Person ID": 166265,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "15/11/1995"
+  },
+  {
+    "Navn": "Akram, Mohammed Ibrahim",
+    "Person ID": 363966,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "16/10/2007"
+  },
+  {
+    "Navn": "Ali, Hira",
+    "Person ID": 369374,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "27/06/2007"
   },
   {
     "Navn": "Ali, Shaban",
     "Person ID": 364324,
-    "leder": false,
-    "__EMPTY_4": "",
+    "Butik": 1331,
     "Afd.": "080",
-    "__EMPTY_3": "",
-    "__EMPTY_5": ""
+    "Fødselsdag": "03/09/2007"
   },
   {
-    "__EMPTY_5": "",
-    "leder": false,
+    "Navn": "Amin, Zain Kamran",
+    "Person ID": 361304,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "11/11/2006"
+  },
+  {
+    "Navn": "Amin, Zohaib Kamran",
+    "Person ID": 317021,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "11/11/2004"
+  },
+  {
+    "Navn": "Amoah, Emmanuel Ntim",
+    "Person ID": 365879,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "13/09/2006"
+  },
+  {
+    "Navn": "Andersen, Kirstine",
+    "Person ID": 185653,
+    "Butik": 1331,
+    "Afd.": "",
+    "Fødselsdag": "24/10/1994"
+  },
+  {
+    "Navn": "Andersen, Magnus Hovmann",
+    "Person ID": 257108,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "08/09/2002"
+  },
+  {
+    "Navn": "Andersen, Matias Bue",
+    "Person ID": 320604,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "28/09/2005"
+  },
+  {
+    "Navn": "Angleys, Daniel",
+    "Person ID": 149387,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "07/03/1996"
+  },
+  {
+    "Navn": "Anthony, Emma Bachmann",
+    "Person ID": 283063,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "21/01/2004"
+  },
+  {
+    "Navn": "Arik, Hatice",
+    "Person ID": 117959,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "16/10/1986"
+  },
+  {
+    "Navn": "Aslam, Mohammad Ali",
+    "Person ID": 375485,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "13/11/2007"
+  },
+  {
+    "Navn": "Atif, Rahat Naghma",
+    "Person ID": 305296,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "14/08/1971"
+  },
+  {
+    "Navn": "Basaran, Hevin Tuana",
+    "Person ID": 361616,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "25/05/2007"
+  },
+  {
+    "Navn": "Bendtsen, Sebastian",
+    "Person ID": 375615,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "07/09/2006"
+  },
+  {
+    "Navn": "Bendtsen, Yasmin Rønberg",
+    "Person ID": 281338,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "22/08/2003"
+  },
+  {
+    "Navn": "Benli, Rojda",
+    "Person ID": 324316,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "22/06/2005"
+  },
+  {
+    "Navn": "Bouchareb, Omar",
+    "Person ID": 364313,
+    "Butik": 1331,
     "Afd.": "080",
-    "__EMPTY_4": "",
+    "Fødselsdag": "09/11/2007"
+  },
+  {
+    "Navn": "Cahuya, Kiel Kirby Daquil",
+    "Person ID": 372785,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "28/08/2007"
+  },
+  {
+    "Navn": "Chaudhry, Mohid",
+    "Person ID": 365884,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "23/10/2006"
+  },
+  {
+    "Navn": "Christensen, Tanja",
+    "Person ID": 179442,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "03/03/1986"
+  },
+  {
+    "Navn": "Christiansen, Mikkel Holst",
+    "Person ID": 339786,
+    "Butik": 1331,
+    "Afd.": 604,
+    "Fødselsdag": "22/09/2006"
+  },
+  {
+    "Navn": "Cristescu, Malou",
+    "Person ID": 361239,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "07/08/2007"
+  },
+  {
+    "Navn": "Damkjær, Connie Iris",
+    "Person ID": 114591,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "19/02/1962"
+  },
+  {
+    "Navn": "Dar, Awab Javed",
+    "Person ID": 376410,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "17/07/2003"
+  },
+  {
+    "Navn": "Demirel, Adil Vefa",
+    "Person ID": 364670,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "16/01/2006"
+  },
+  {
     "Navn": "Demirel, Ercan Enes",
     "Person ID": 364667,
-    "__EMPTY_3": ""
-  },
-  {
-    "__EMPTY_4": "",
-    "Navn": "Demirel, Adil Vefa",
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Person ID": 364670,
+    "Butik": 1331,
     "Afd.": "080",
-    "leder": false
+    "Fødselsdag": "18/10/2007"
   },
   {
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "Person ID": 365145,
-    "Navn": "Onsby, Cecilie Renow",
+    "Navn": "Deveci, Ahmet",
+    "Person ID": 378628,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "16/01/2008"
+  },
+  {
+    "Navn": "Duymaz, Berkay Alper",
+    "Person ID": 339637,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "10/08/2006"
+  },
+  {
+    "Navn": "Eker, Mevlüt",
+    "Person ID": 356873,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "31/08/2006"
+  },
+  {
+    "Navn": "El-Koubee, Meryem",
+    "Person ID": 372581,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "31/10/2007"
+  },
+  {
+    "Navn": "El-Maghlouk, Mohamed",
+    "Person ID": 362806,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "15/07/2007"
+  },
+  {
+    "Navn": "El-Mokadim, Adam",
+    "Person ID": 340737,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "28/08/2006"
+  },
+  {
+    "Navn": "El-Sherbini, Josefine Hammershøi",
+    "Person ID": 211024,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "05/01/1993"
+  },
+  {
+    "Navn": "Elsang, Christian",
+    "Person ID": 286828,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "22/02/2003"
+  },
+  {
+    "Navn": "Ermark, Lærke",
+    "Person ID": 374853,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "15/12/2005"
+  },
+  {
+    "Navn": "Faurskov, Camilla Sara",
+    "Person ID": 191333,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "02/08/1996"
+  },
+  {
+    "Navn": "Fetihaison, Biniam Zerealassi",
+    "Person ID": 242894,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "22/11/1990"
+  },
+  {
+    "Navn": "Frandsen, Nicki Kjær Lingskov",
+    "Person ID": 353427,
+    "Butik": 1331,
+    "Afd.": "040",
+
+    "Fødselsdag": "09/08/2006"
+  },
+  {
+    "Navn": "Frisch, Samuella",
+    "Person ID": 377038,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "13/11/2007"
+  },
+  {
+    "Navn": "Gajewski, Mateusz Pawel",
+    "Person ID": 193055,
+    "Butik": 1331,
     "Afd.": "030",
-    "leder": false,
-    "__EMPTY_5": ""
+    "Fødselsdag": "04/11/1992"
   },
   {
-    "__EMPTY_4": "",
-    "leder": false,
-    "__EMPTY_3": "",
-    "Afd.": "040",
-    "__EMPTY_5": "",
-    "Person ID": 365879,
-    "Navn": "Amoah, Emmanuel Ntim"
+    "Navn": "Garmiyani, Soma",
+    "Person ID": 378162,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "19/07/2008"
   },
   {
-    "__EMPTY_3": "",
-    "Navn": "Chaudhry, Mohid",
-    "Afd.": "040",
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "Person ID": 365884,
-    "leder": false
-  },
-  {
-    "leder": false,
-    "__EMPTY_5": "",
-    "Person ID": 365982,
+    "Navn": "Gautam, Ishan",
+    "Person ID": 352008,
+    "Butik": 1331,
     "Afd.": "080",
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "Navn": "Celik, Murat"
+    "Fødselsdag": "01/10/2006"
+  },
+  {
+    "Navn": "Grandal, Simon",
+    "Person ID": 377168,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "23/11/2006"
+  },
+  {
+    "Navn": "Guldager, Birthe Marguerita",
+    "Person ID": 299803,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "14/06/1962"
+  },
+  {
+    "Navn": "Gür, Emir",
+    "Person ID": 355774,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "01/07/2007"
+  },
+  {
+    "Navn": "Gür, Merve",
+    "Person ID": 169586,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "30/11/1996"
+  },
+  {
+    "Navn": "Gür, Nesrin",
+    "Person ID": 106490,
+    "Butik": 1331,
+    "Afd.": "",
+    "Fødselsdag": "07/04/1990"
+  },
+  {
+    "Navn": "Göz, Adem Arda",
+    "Person ID": 374752,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "02/10/2006"
+  },
+  {
+    "Navn": "Hansen, Tino",
+    "Person ID": 349760,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "09/03/1984"
+  },
+  {
+    "Navn": "Hayal, Muhammed Onur",
+    "Person ID": 309787,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "18/11/2004"
+  },
+  {
+    "Navn": "Hayal, Nazar",
+    "Person ID": 305239,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "18/02/2004"
+  },
+  {
+    "Navn": "Hegyközy, Izabell Peulecke",
+    "Person ID": 341313,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "10/09/2005"
+  },
+  {
+    "Navn": "Holm, Cecilie",
+    "Person ID": 378446,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "29/06/1994"
+  },
+  {
+    "Navn": "Hussain, Aieyan",
+    "Person ID": 373858,
+    "Butik": 1331,
+    "Afd.": 604,
+    "Fødselsdag": "27/04/2008"
+  },
+  {
+    "Navn": "Imtiaz, Noor Shaheen",
+    "Person ID": 352250,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "16/06/2006"
+  },
+  {
+    "Navn": "Iversen, Marianne",
+    "Person ID": 124381,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "17/06/1972"
+  },
+  {
+    "Navn": "Jensen, Helene",
+    "Person ID": 374498,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "17/03/2007"
+  },
+  {
+    "Navn": "Jensen, Henrik Torben Steen",
+    "Person ID": 345481,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "06/03/1967"
+  },
+  {
+    "Navn": "Jensen, Katja",
+    "Person ID": 124863,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "09/09/1993"
+  },
+  {
+    "Navn": "Joensen, Mattias Ingemann",
+    "Person ID": 330939,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "24/06/2005"
+  },
+  {
+    "Navn": "Jungersen, Jesper Frank",
+    "Person ID": 115692,
+    "Butik": 1331,
+    "Afd.": "",
+    "Fødselsdag": "02/07/1978"
+  },
+  {
+    "Navn": "Junget, Benjamin Poul Malon",
+    "Person ID": 370493,
+    "Butik": 1331,
+    "Afd.": 604,
+    "Fødselsdag": "29/10/2006"
+  },
+  {
+    "Navn": "Kamran, Amira",
+    "Person ID": 377486,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "04/11/2007"
+  },
+  {
+    "Navn": "Kauser, Aksa",
+    "Person ID": 329242,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "24/08/2005"
+  },
+  {
+    "Navn": "Kirckhoff, Mikkel",
+    "Person ID": 160851,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "25/06/1995"
+  },
+  {
+    "Navn": "Koca, Aysegül",
+    "Person ID": 352230,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "27/02/2007"
+  },
+  {
+    "Navn": "Kristjansen, Brian",
+    "Person ID": 361471,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "30/01/1987"
+  },
+  {
+    "Navn": "Krogh, Esben Anders Marthal",
+    "Person ID": 272817,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "19/11/1963"
+  },
+  {
+    "Navn": "Kurt, Simge",
+    "Person ID": 275654,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "29/08/2002"
+  },
+  {
+    "Navn": "Kücük, Enes",
+    "Person ID": 368190,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "05/10/2006"
+  },
+  {
+    "Navn": "Kücükavci, Muhammed Ali",
+    "Person ID": 337806,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "20/07/2004"
+  },
+  {
+    "Navn": "Kücükkilic, Amine",
+    "Person ID": 368382,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "07/04/2007"
+  },
+  {
+    "Navn": "Kücükkilic, Hasan",
+    "Person ID": 351132,
+    "Butik": 1331,
+    "Afd.": 604,
+    "Fødselsdag": "07/04/2007"
+  },
+  {
+    "Navn": "Kücükköse, Narin",
+    "Person ID": 377032,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "12/03/2008"
+  },
+  {
+    "Navn": "Lamkachar, Manal",
+    "Person ID": 295232,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "08/09/2004"
+  },
+  {
+    "Navn": "Legaard, Rikke Nicoline",
+    "Person ID": 324718,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "04/11/1981"
+  },
+  {
+    "Navn": "Lepon, Vincent",
+    "Person ID": 352124,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "01/04/2005"
+  },
+  {
+    "Navn": "Limthong, Chamai",
+    "Person ID": 180542,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "26/05/1989"
+  },
+  {
+    "Navn": "Lorentzen, Lasse Kragh",
+    "Person ID": 230372,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "20/09/1999"
+  },
+  {
+    "Navn": "Madsen, Maria Lind",
+    "Person ID": 202855,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "24/04/1987"
+  },
+  {
+    "Navn": "Malik, Hamna Azhar",
+    "Person ID": 250977,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "18/07/2002"
+  },
+  {
+    "Navn": "Markvard, Rasmus",
+    "Person ID": 376568,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "27/06/2006"
+  },
+  {
+    "Navn": "Meer, Alisha",
+    "Person ID": 375875,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "12/06/2007"
+  },
+  {
+    "Navn": "Mirza, Sahil",
+    "Person ID": 376155,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "03/09/2007"
+  },
+  {
+    "Navn": "Moe, Victor Schultz",
+    "Person ID": 320189,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "27/11/2001"
+  },
+  {
+    "Navn": "Mouritzsen, Alan Darnankari",
+    "Person ID": 258083,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "28/06/1995"
+  },
+  {
+    "Navn": "Mundt, Johanne Thaulov",
+    "Person ID": 377717,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "02/07/2006"
+  },
+  {
+    "Navn": "Munk, Thomas",
+    "Person ID": 103978,
+    "Butik": 1331,
+    "Afd.": 608,
+    "Fødselsdag": "19/12/1985"
+  },
+  {
+    "Navn": "Nielsen, Lone Marianne",
+    "Person ID": 148727,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "18/08/1967"
   },
   {
     "Navn": "Normann, Per",
-    "__EMPTY_4": "",
-    "leder": false,
-    "__EMPTY_5": "",
     "Person ID": 366022,
+    "Butik": 1331,
     "Afd.": 604,
-    "__EMPTY_3": ""
+    "Fødselsdag": "18/02/1965"
   },
   {
-    "__EMPTY_5": "",
-    "Person ID": 367905,
-    "leder": false,
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "Navn": "Tanatar, Emil",
-    "Afd.": 602
-  },
-  {
-    "__EMPTY_4": "",
-    "__EMPTY_3": "",
-    "Navn": "Kücük, Enes",
-    "__EMPTY_5": "",
-    "Afd.": "080",
-    "Person ID": 368190,
-    "leder": false
-  },
-  {
-    "__EMPTY_5": "",
-    "Navn": "Kücükkilic, Amine",
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
-    "leder": false,
-    "Afd.": "080",
-    "Person ID": 368382
-  },
-  {
-    "__EMPTY_5": "",
-    "Navn": "Vilson, Sabina",
-    "leder": false,
-    "__EMPTY_3": "",
-    "Person ID": 368483,
-    "Afd.": 605,
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "Afd.": 602,
-    "Person ID": 368881,
-    "Navn": "Savran, Kerim",
-    "leder": false,
-    "__EMPTY_3": ""
-  },
-  {
-    "Afd.": 605,
-    "Person ID": 369374,
-    "__EMPTY_5": "",
-    "leder": false,
-    "__EMPTY_4": "",
-    "Navn": "Ali, Hira",
-    "__EMPTY_3": ""
-  },
-  {
-    "__EMPTY_5": "",
-    "Person ID": 369397,
-    "leder": false,
-    "__EMPTY_4": "",
-    "Navn": "Wichah, Mariah",
-    "Afd.": 605,
-    "__EMPTY_3": ""
-  },
-  {
-    "__EMPTY_5": "",
-    "__EMPTY_4": "",
-    "leder": false,
-    "Navn": "Khan, Mehreen Noor",
-    "__EMPTY_3": "",
-    "Afd.": 605,
-    "Person ID": 370069
-  },
-  {
-    "__EMPTY_4": "",
-    "Person ID": 370493,
-    "Navn": "Junget, Benjamin Poul Malon",
-    "leder": false,
-    "__EMPTY_5": "",
-    "Afd.": 604,
-    "__EMPTY_3": ""
-  },
-  {
-    "__EMPTY_3": "",
-    "Afd.": "030",
-    "__EMPTY_4": "",
-    "Person ID": 370792,
-    "leder": false,
-    "__EMPTY_5": "",
-    "Navn": "Voldfrom, Anika Birch"
-  },
-  {
-    "Afd.": 310,
-    "__EMPTY_5": "",
-    "leder": false,
-    "__EMPTY_4": "",
-    "Navn": "El-Koubee, Meryem",
-    "__EMPTY_3": "",
-    "Person ID": 372581
-  },
-  {
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Person ID": 372785,
-    "Navn": "Cahuya, Kiel Kirby Daquil",
-    "leder": false,
-    "Afd.": "080"
-  },
-  {
-    "__EMPTY_4": "",
-    "Person ID": 372835,
-    "__EMPTY_3": "",
-    "leder": false,
-    "__EMPTY_5": "",
-    "Afd.": "080",
-    "Navn": "Al-Badri, Omar"
-  },
-  {
-    "Person ID": 373679,
-    "Afd.": "080",
-    "__EMPTY_3": "",
-    "leder": false,
-    "__EMPTY_5": "",
-    "Navn": "Sahin, Ahmet Ayvaz",
-    "__EMPTY_4": ""
-  },
-  {
-    "Person ID": 373858,
-    "__EMPTY_5": "",
-    "__EMPTY_3": "",
-    "Navn": "Hussain, Aieyan",
-    "Afd.": 604,
-    "leder": false,
-    "__EMPTY_4": ""
-  },
-  {
-    "__EMPTY_5": "",
     "Navn": "Okonkwo, Helena Chizoba",
-    "Afd.": 605,
-    "__EMPTY_3": "",
-    "__EMPTY_4": "",
     "Person ID": 373879,
-    "leder": false
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "29/09/2007"
   },
   {
-    "leder": false,
-    "Navn": "Jensen, Helene",
-    "__EMPTY_3": "",
-    "Person ID": 374498,
-    "__EMPTY_4": "",
-    "__EMPTY_5": "",
-    "Afd.": 602
+    "Navn": "Olsen, Mette Rønberg",
+    "Person ID": 320019,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "01/12/1977"
   },
   {
-    "leder": false,
-    "Navn": "Khan, Alvira Noor",
+    "Navn": "Onsby, Cecilie Renow",
+    "Person ID": 365145,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "20/02/2007"
+  },
+  {
+    "Navn": "Onsby, Niklas Renow",
+    "Person ID": 315673,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "02/11/2004"
+  },
+  {
+    "Navn": "Osther, Emmeli",
+    "Person ID": 309284,
+    "Butik": 1331,
     "Afd.": 602,
-    "Person ID": 374533
+    "Fødselsdag": "13/02/2003"
+  },
+  {
+    "Navn": "Pedersen, Alex Smith",
+    "Person ID": 360047,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "12/12/2005"
+  },
+  {
+    "Navn": "Petersen, Henni Serritzlev",
+    "Person ID": 124412,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "15/09/1971"
+  },
+  {
+    "Navn": "Petersen, Jonas Holm",
+    "Person ID": 329736,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "25/10/2003"
+  },
+  {
+    "Navn": "Petersen, Kenneth",
+    "Person ID": 175166,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "18/07/1973"
+  },
+  {
+    "Navn": "Poulsen, William Carl",
+    "Person ID": 375618,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "26/12/2007"
+  },
+  {
+    "Navn": "Rabii, Zahra",
+    "Person ID": 286804,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "25/01/2004"
+  },
+  {
+    "Navn": "Rahman, Aya Abdul",
+    "Person ID": 375922,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "08/02/2007"
+  },
+  {
+    "Navn": "ravn, luna",
+    "Person ID": 361198,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "15/10/2006"
+  },
+  {
+    "Navn": "Razaq, Aayan",
+    "Person ID": 349367,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "09/01/2006"
+  },
+  {
+    "Navn": "Renard, Bertram Søberg",
+    "Person ID": 376672,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "10/10/2006"
+  },
+  {
+    "Navn": "Rosentrætter, Frederik",
+    "Person ID": 320047,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "09/06/2005"
+  },
+  {
+    "Navn": "Sahin, Ahmet Ayvaz",
+    "Person ID": 373679,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "06/03/2008"
+  },
+  {
+    "Navn": "Sahin, Aysegül",
+    "Person ID": 335799,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "11/09/2006"
+  },
+  {
+    "Navn": "Sahin, Seval",
+    "Person ID": 218368,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "24/08/2000"
+  },
+  {
+    "Navn": "Sahin, Zeliha",
+    "Person ID": 362972,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "01/11/2007"
+  },
+  {
+    "Navn": "Sanders, Christian Markussen",
+    "Person ID": 333858,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "21/09/2004"
+  },
+  {
+    "Navn": "Savran, Kerim",
+    "Person ID": 368881,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "21/02/2007"
+  },
+  {
+    "Navn": "Schmidt, Sarah Juul",
+    "Person ID": 240856,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "02/12/2000"
+  },
+  {
+    "Navn": "Shniter, Hadil Salman",
+    "Person ID": 349344,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "23/08/1992"
+  },
+  {
+    "Navn": "Simonsen, Nicholas Adam",
+    "Person ID": 361294,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "18/12/2006"
+  },
+  {
+    "Navn": "Simsek, Lorin Mine",
+    "Person ID": 287139,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "06/07/2004"
+  },
+  {
+    "Navn": "Singh, Arshdeep",
+    "Person ID": 374830,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "26/05/2006"
+  },
+  {
+    "Navn": "Singh, Sandeep",
+    "Person ID": 351740,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "17/07/2006"
+  },
+  {
+    "Navn": "Sokolowska, Patrycja",
+    "Person ID": 308195,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "12/04/2005"
+  },
+  {
+    "Navn": "Solvig, René Bak",
+    "Person ID": 288700,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "03/01/1975"
+  },
+  {
+    "Navn": "Sufi, Mozamel Nuradin",
+    "Person ID": 244885,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "07/09/2000"
+  },
+  {
+    "Navn": "Sølby, Mikael",
+    "Person ID": 292866,
+    "Butik": 1331,
+    "Afd.": 604,
+    "Fødselsdag": "25/12/1973"
+  },
+  {
+    "Navn": "Søndergaard, Andreas Thor Ström",
+    "Person ID": 355261,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "19/01/2007"
+  },
+  {
+    "Navn": "Sönmez, Bekir",
+    "Person ID": 258898,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "20/05/2001"
+  },
+  {
+    "Navn": "Sørensen, Julie Fink",
+    "Person ID": 313073,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "27/06/2005"
+  },
+  {
+    "Navn": "Tanatar, Emil",
+    "Person ID": 367905,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "23/10/2007"
+  },
+  {
+    "Navn": "Tas, Miran Fedekar",
+    "Person ID": 363583,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "17/12/2006"
+  },
+  {
+    "Navn": "Thøgersen, Nicklas Vigilsen Lee",
+    "Person ID": 361295,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "03/07/2006"
+  },
+  {
+    "Navn": "Tirpan, Heval Cerkez",
+    "Person ID": 257075,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "17/05/2001"
+  },
+  {
+    "Navn": "Tükenmez, Bertin",
+    "Person ID": 340003,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "07/02/2006"
+  },
+  {
+    "Navn": "Tüzci, Sehrazat",
+    "Person ID": 361251,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "25/01/2007"
+  },
+  {
+    "Navn": "Vilson, Sabina",
+    "Person ID": 368483,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "22/11/1984"
+  },
+  {
+    "Navn": "Volkdal, Clara Grundahl",
+    "Person ID": 348341,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "05/11/2006"
+  },
+  {
+    "Navn": "Wahab, Sarah",
+    "Person ID": 376119,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "28/01/2007"
+  },
+  {
+    "Navn": "Wervick, Noa Magnus",
+    "Person ID": 352413,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "07/10/2004"
+  },
+  {
+    "Navn": "Wervick, Vilgot Otto Magnus",
+    "Person ID": 357172,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "04/09/2007"
+  },
+  {
+    "Navn": "Wichah, Mariah",
+    "Person ID": 369397,
+    "Butik": 1331,
+    "Afd.": 605,
+    "Fødselsdag": "23/08/2006"
+  },
+  {
+    "Navn": "Wiese, Jonas",
+    "Person ID": 310663,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "20/01/1990"
+  },
+  {
+    "Navn": "With, Victor Bonde",
+    "Person ID": 378607,
+    "Butik": 1331,
+    "Afd.": "030",
+    "Fødselsdag": "14/12/2006"
+  },
+  {
+    "Navn": "Ücler, Mert",
+    "Person ID": 360703,
+    "Butik": 1331,
+    "Afd.": "080",
+    "Fødselsdag": "02/07/2007"
+  },
+  {
+    "Navn": "Yilmaz, Eda",
+    "Person ID": 328305,
+    "Butik": 1331,
+    "Afd.": 310,
+    "Fødselsdag": "11/01/2006"
+  },
+  {
+    "Navn": "Zacchi, Andreas Victor",
+    "Person ID": 308194,
+    "Butik": 1331,
+    "Afd.": 602,
+    "Fødselsdag": "23/03/2004"
+  },
+  {
+    "Navn": "Østergaard, Rosa",
+    "Person ID": 378609,
+    "Butik": 1331,
+    "Afd.": "040",
+    "Fødselsdag": "08/04/2008"
   }
 ]
