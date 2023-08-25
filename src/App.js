@@ -32,8 +32,8 @@ function App() {
         return (
           <div key={medarbejder.id}>
             <p>
-              {firstNames + " " + lastName} lønnummer:{" "}
-              {medarbejder["Person ID"]}
+              {firstNames + " " + lastName}
+             
             </p>
           </div>
         );
